@@ -52,9 +52,7 @@
 -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - - 
 🟠 Additional Information:
 -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - - 
-🟠 Computer Skills: Printing, Scanning, Document Copying, Internet, Email, Microsoft Word, Microsoft Excel, Microsoft Power Point, PhotoShop, HTML5, CSS3, SCSS, BEM Methodology,
--  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - - 
-🟠 GULP, Figma, JavaScript, jquery.
+🟠 Computer Skills: Printing, Scanning, Document Copying, Internet, Email, Microsoft Word, Microsoft Excel, Microsoft Power Point, PhotoShop, HTML5, CSS3, SCSS, BEM Methodology, GULP, Figma, JavaScript, jquery.
 -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - - 
 🟠 Your free time activities: I read IT forums, I am fond of the life of Frontend and JavaScript development. I am fond of learning frameworks such as React Native.
 -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - - 
