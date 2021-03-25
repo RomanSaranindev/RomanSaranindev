@@ -12,6 +12,14 @@
 -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - - 
 🟢 instagram:https://www.instagram.com/rs_fwd/ 🗨
 -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - - 
+🔘 My Portfolio:
+🔘 1-https://romansaranindev.github.io/Boost/
+🔘 2-https://romansaranindev.github.io/Cuda/
+🔘 3-https://romansaranindev.github.io/AXIT/
+🔘 4-https://romansaranindev.github.io/John/
+🔘 5-https://romansaranindev.github.io/PrimeOne/
+🔘 6-https://romansaranindev.github.io/Smart/
+-  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - - 
 🔵 Personal information:
 -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - -  - - 
 🔵 Citizenship: Russian Federation
